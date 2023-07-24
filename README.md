@@ -16,7 +16,7 @@ Attrition: YES = 1; NO = 0
 Attrition quer dizer se o funcionário saiu (saíra, no caso da previsão) da empresa ou não.
 
   <p align="center"> 
-📊 <b> ANÁLISE DOS RESULTADOS </b> 📊
+📊 <b> ANÁLISE DOS RESULTADOS  </b> 📊
 <p>
  
  ![g2](https://github.com/CeLo93/Analise_de_saida_RH/assets/92175791/6c188941-2ff2-47ae-b2d5-9c85f042fa67)
